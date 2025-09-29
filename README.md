@@ -1,7 +1,7 @@
 
 # 📊 Power BI – Interactive Business Insights Dashboard
 
-🔗 **Live Report (Public, no sign‑in required):**  
+
 [Link to my Report](https://app.powerbi.com/view?r=eyJrIjoiNThmNWFiMjctZWJkNi00NDY2LTgwZjYtNmNiODJjZDY5NzIzIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)  
 <img width="818" height="382" alt="image" src="https://github.com/user-attachments/assets/ec765b27-6268-412d-a341-31b91f165193" />
 
